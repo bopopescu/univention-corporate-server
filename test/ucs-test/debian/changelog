@@ -1,3 +1,9 @@
+ucs-test (10.0.0-46) unstable; urgency=medium
+
+  * Bug #51622: Tests for Py2/3 UDM extension module handling
+
+ -- Arvid <requate@univention.de>  Thu, 23 Jul 2020 13:16:34 +0200
+
 ucs-test (10.0.0-45) unstable; urgency=medium
 
   * Bug #51598: Typo
